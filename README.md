@@ -3,14 +3,14 @@
 
 ## Guzheng Playing Dataset
 #### Download
-You can download the Guzheng playing dataset in Google driven.
+You can download the Guzheng playing dataset from [Google drive](https://drive.google.com/file/d/1aRq2ZTV7-2EI3O3UYpaAsbie1gMATjlt/view).
 The structure of dataset is
 
  - **guzheng-xxxx.wav:** recorded audio file.
  - **guzheng-xxxx_panoramic.mp4:** recorded MotionCapture video file.
  - **guzheng-xxxx_skeleton.txt:**  recorded animation data.
 
-The audio and corresponding video are not time aligned, so you need to align them if you use the dataset.
+The audio and corresponding video are not time aligned, so you need to align them is you use the dataset.
 #### Visualization
 The code depends on python3.8. Run 
 ```python 
