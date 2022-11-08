@@ -10,7 +10,7 @@ The structure of dataset is
  - **guzheng-xxxx_panoramic.mp4:** recorded MotionCapture video file.
  - **guzheng-xxxx_skeleton.txt:**  recorded animation data.
 
-The audio and corresponding video are not time aligned, so you need to align them is you use the dataset.
+The audio and corresponding video are not time aligned, so you need to align them if you use the dataset.
 #### Visualization
 The code depends on python3.8. Run 
 ```python 
